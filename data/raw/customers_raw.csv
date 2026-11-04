@@ -1,0 +1,11 @@
+customer_id,city,monthly_spend,churned
+1,Mumbai,1250.50,0
+2,Mumbai,980.00,0
+3,Mumbai,760.25,1
+4,Delhi,1100.00,0
+5,Delhi,845.75,1
+6,Bengaluru,1425.00,0
+7,Bengaluru,920.50,0
+8,Bengaluru,675.00,1
+9,Chennai,890.25,0
+10,Chennai,1050.00,0
